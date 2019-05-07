@@ -3,7 +3,7 @@
 
 ### Step - 1: First install this dependencies 
 
-check [kivy](https://kivy.org/doc/stable/installation/installation-windows.html#install-win-dist) for kivy installation.
+check [kivy](https://kivy.org/doc/stable/installation/installation-windows.html#install-win-dist) for kivy installation.  
 `pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew `        
 `pip install kivy.deps.gstreamer`        
 `pip install kivy.deps.angle`       
